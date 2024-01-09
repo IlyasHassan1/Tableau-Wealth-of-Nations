@@ -1,19 +1,19 @@
-# Wealth-of-Nations
+# Wealth-of-Nations 🌐💰
 Working with excel and Tableau on this project
 
-Overview
+Overview -
 This repo dives into the Wealth of Nations dataset, using Excel and Tableau for cleaning, filtering, and visualization.
 
-Dataset
+Dataset -
 The dataset serves as the backbone, with a focus on cleaning, filtering, and deriving insights.
 
-Data Processing
+Data Processing -
 Rigorous cleaning and filtering ensure relevant insights, uncovering patterns and trends.
 
-Visualization
+Visualization -
 Leveraging Tableau, we create impactful visualizations for better data understanding.
 
-Structure
+Structure -
 data: Wealth of Nations dataset and intermediates.
 scripts: Excel scripts for data analysis.
 visualizations: Tableau-generated visual insights.
