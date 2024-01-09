@@ -13,10 +13,10 @@ Rigorous cleaning and filtering ensure relevant insights, uncovering patterns an
 Visualization -
 Leveraging Tableau, we create impactful visualizations for better data understanding.
 
-Structure -
-data: Wealth of Nations dataset and intermediates.
-scripts: Excel scripts for data analysis.
-visualizations: Tableau-generated visual insights.
+Structure - 
+Data: Wealth of Nations dataset and intermediates. 
+Scripts: Excel scripts for data analysis. 
+Visualizations: Tableau-generated visual insights.
 
 Contribute 🚀
 Found issues or have ideas? Open an issue or pull request – your input is welcome!
